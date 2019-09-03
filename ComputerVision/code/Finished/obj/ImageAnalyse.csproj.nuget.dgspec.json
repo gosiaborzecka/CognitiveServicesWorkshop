@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj": {}
+    "D:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj": {
+    "D:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj",
+        "projectUniqueName": "D:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj",
         "projectName": "ImageAnalyse",
-        "projectPath": "d:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj",
+        "projectPath": "D:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\ImageAnalyse.csproj",
         "packagesPath": "C:\\Users\\Gosia\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\obj\\",
+        "outputPath": "D:\\Projects\\Workshop\\CognitiveServicesWorkshop\\ComputerVision\\code\\Finished\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
